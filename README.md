@@ -1,6 +1,8 @@
 # integration-platform
 Testing pull requests
 
+Current branch: feature2
+
 #Branches
 * feature1: No rules, common branch
 * feature2: Require a pull request before merging (Require approvals)
